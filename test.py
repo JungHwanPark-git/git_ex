@@ -1,1 +1,1 @@
-My git Project
+print('Hello world')
