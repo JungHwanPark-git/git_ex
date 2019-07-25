@@ -1,1 +1,4 @@
-My git Project
+import os
+
+print('Hello world')
+print(os.path)
